@@ -1,6 +1,6 @@
 # 🌟 Atlaspad: Pioneering Privacy in DeFi
 
-![Dynamic illustration of Atlaspad's ecosystem, highlighting its innovative approach to secure, private cross-chain transactions, with symbols representing Zero-Knowledge Proofs, Merkle trees, and a network of interconnected blockchains.](https://atlaspad.io)
+![Dynamic illustration of Atlaspad's ecosystem, highlighting its innovative approach to secure, private cross-chain transactions, with symbols representing Zero-Knowledge Proofs, Merkle trees, and a network of interconnected blockchains.](https://www.atlaspad.io)
 
 Welcome to **Atlaspad**, introduces a the first and only trustless Cross-Chain ZK Launchpad that utilizes zero-knowledge proofs to enable secure and private transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of privacy and high transaction costs in DeFi by allowing users to:
 
