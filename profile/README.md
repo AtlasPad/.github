@@ -1,7 +1,7 @@
-# 🌟 Atlaspad: Pioneering Privacy in DeFi
+# 🌟 Atlaspad: Pioneering Trustless in DeFi
 (https://www.atlaspad.io)
 
-Welcome to **Atlaspad**, introduces a the first and only trustless Cross-Chain ZK Launchpad that utilizes zero-knowledge proofs to enable secure and private transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of privacy and high transaction costs in DeFi by allowing users to:
+Welcome to **Atlaspad**, introduces a the first and only trustless Cross-Chain ZK Launchpad that utilizes zero-knowledge proofs to enable secure and trustless transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of security and high transaction costs in DeFi by allowing users to:
 
 * Participate in presales of upcoming projects without revealing their investment size or strategy.
 * Stake assets within a privacy-preserving ecosystem that interlinks with multiple blockchains like Ethereum, Binance Smart Chain, and Mina Protocol.
@@ -12,6 +12,7 @@ This launchpad is designed to empower users with the freedom to move assets acro
 ## 🏛️ The Odyssey So Far
 
 - **First Commit:** [01.09.23]
+- **First Demo:** [10.05.24]
 - **Global Contributors:** A vibrant community from over [12] nations.
 
 
