@@ -13,9 +13,3 @@ Privacy-Preserving Staking: Perform staking transactions within a secure, privac
 💰 Atlaspad Token (ATLAS): A native payment and reward token. Users are incentivized to share data and participate in the ecosystem with ATLAS tokens, improving data resources and software usage.
 
 🖼 Atlaspad NFTs: A limited number of NFTs integrated into the platform.
-
-📅 Roadmap:
-Private Sale: Planned for the coming months.
-Public Sale and Listing: Plan to list on major exchanges.
-Partnership Announcements: Future collaborations with leading blockchain networks.
-Future Features: Zk Proof and RWA platforms will be added.
