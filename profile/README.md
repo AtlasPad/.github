@@ -14,7 +14,7 @@ Privacy-Preserving Staking: Perform staking transactions within a secure, privac
 
 🖼 Atlaspad NFTs: A limited number of NFTs integrated into the platform.
 
-Twitter: https://x.com/Atlaspad \n
-Discord: https://discord.gg/atlaspad
-Telegram: https://t.me/atlaspad
+Twitter: https://x.com/Atlaspad <br>
+Discord: https://discord.gg/atlaspad  <br>
+Telegram: https://t.me/atlaspad <br> 
 Medium: https://atlaspad.medium.com/
