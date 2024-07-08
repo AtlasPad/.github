@@ -17,4 +17,5 @@ Privacy-Preserving Staking: Perform staking transactions within a secure, privac
 Twitter: https://x.com/Atlaspad <br>
 Discord: https://discord.gg/atlaspad  <br>
 Telegram: https://t.me/atlaspad <br> 
-Medium: https://atlaspad.medium.com/
+Medium: https://atlaspad.medium.com/ <br>
+Linkedin: https://www.linkedin.com/company/atlaspad/mycompany/
