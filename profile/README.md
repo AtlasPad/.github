@@ -13,4 +13,4 @@ Key Features
 
 Discover more about Atlaspad
 🌐 All Links : https://hub.xyz/atlaspad
-🌐 Pitch Deck : https://docsend.com/view/nht5qx9rfjw2cr4a
+
